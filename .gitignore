@@ -1,0 +1,6 @@
+libiconv-1.13.1*
+scripts/*.txt
+scripts/*.csv
+data/
+results/
+.DS_store
